@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.btn{
+    width: 7em;
+    border-radius: 22px;
+    color: black;
+    font-family: Rubik;
+    
+}
